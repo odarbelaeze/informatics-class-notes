@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"\u00edndic":0,busqued:0,contents:0,modul:0,pagin:0},titles:["Welcome to Iform\u00e1tica III - Notas de Clase&#8217;s documentation!"],titleterms:{and:0,clas:0,documentation:0,iformat:0,iii:0,indic:0,not:0,tabl:0,welcom:0}})
