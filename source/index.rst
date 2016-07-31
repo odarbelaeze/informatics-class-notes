@@ -3,13 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Iformática III - Notas de Clase's documentation!
-===========================================================
+Notas de clase: Informatica III 2016.II
+=======================================
 
-Contents:
+Contenido:
 
 .. toctree::
    :maxdepth: 2
+
+   introduction
 
 
 
